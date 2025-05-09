@@ -3,18 +3,12 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>hnu2021426@hnu.edu.cn</code>  
+<code>KunChen.drugai@gmail.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Hunan University**, Undergrad Student
+• GPA: 3.55/4  
 
 #### Research Interests  
-XX, XX, XX, XX.
+AI
